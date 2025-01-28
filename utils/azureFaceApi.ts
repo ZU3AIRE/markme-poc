@@ -1,5 +1,5 @@
-const AZURE_FACE_KEY = process.env.NEXT_PUBLIC_AZURE_FACE_KEY || 'AexzVqm6xsyjGHbzBG0gh0RA7gjY9a1xrUgWoVhkRpKcHFwmP5RMJQQJ99BAACYeBjFXJ3w3AAAKACOGXFPi';
-const AZURE_FACE_ENDPOINT = process.env.NEXT_PUBLIC_AZURE_FACE_ENDPOINT || 'https://markmefaceapi.cognitiveservices.azure.com/';
+const AZURE_FACE_KEY = process.env.NEXT_PUBLIC_AZURE_FACE_KEY || 'AexzVqm6xsyjGHbzBG0gh0RA7gjY9a1xrUgWoVhkRpKcHFwmP5RMJQQJ99BAACYeBjFXJ3w3AAAKACOGXF';
+const AZURE_FACE_ENDPOINT = process.env.NEXT_PUBLIC_AZURE_FACE_ENDPOINT || 'https://markmefacea.cognitiveservices.azure.com/';
 
 const PERSON_GROUP_ID = 'myfacegroup';
 const API_ENDPOINT = AZURE_FACE_ENDPOINT;
